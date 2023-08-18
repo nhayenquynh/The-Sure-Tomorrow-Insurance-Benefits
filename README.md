@@ -21,6 +21,7 @@ It's necessary to develop a data transformation algorithm that would make it har
 The dataset is stored in file /datasets/insurance_us.csv. 
 
 - Features: insured person's gender, age, salary, and number of family members.
+  
 - Target: number of insurance benefits received by an insured person over the last five years.
 
 # Project Evaluation: 
