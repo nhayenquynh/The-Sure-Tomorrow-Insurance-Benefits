@@ -31,3 +31,6 @@ The dataset is stored in file /datasets/insurance_us.csv.
 - Have you kept the code neat?
 - Have you developed all necessary procedures and answered all the questions?
 - Have you made your conclusions?
+
+# Generated Plot: 
+<img width="612" alt="image" src="https://github.com/nhayenquynh/The-Sure-Tomorrow-Insurance-Benefits/assets/125513684/c50608c8-75c2-4d83-ba5c-be307e0cf150">
