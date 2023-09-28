@@ -34,3 +34,9 @@ The dataset is stored in file /datasets/insurance_us.csv.
 
 # Generated Plot: 
 <img width="612" alt="image" src="https://github.com/nhayenquynh/The-Sure-Tomorrow-Insurance-Benefits/assets/125513684/c50608c8-75c2-4d83-ba5c-be307e0cf150">
+
+# Result: 
+<img width="554" alt="image" src="https://github.com/nhayenquynh/The-Sure-Tomorrow-Insurance-Benefits/assets/125513684/3e24b879-45bd-4be4-85e4-4c26da497512">
+
+R2 and RMSE scores of Linear Regression model remain the same for obsfuscated and unobfuscated datas.
+
